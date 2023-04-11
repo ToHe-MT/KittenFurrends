@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KittenFurrends/static/css/main.38ac5b03.css",
+    "main.js": "/KittenFurrends/static/js/main.af21bded.js",
+    "static/js/787.ebaa048f.chunk.js": "/KittenFurrends/static/js/787.ebaa048f.chunk.js",
+    "index.html": "/KittenFurrends/index.html",
+    "main.38ac5b03.css.map": "/KittenFurrends/static/css/main.38ac5b03.css.map",
+    "main.af21bded.js.map": "/KittenFurrends/static/js/main.af21bded.js.map",
+    "787.ebaa048f.chunk.js.map": "/KittenFurrends/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ac5b03.css",
+    "static/js/main.af21bded.js"
+  ]
+}
