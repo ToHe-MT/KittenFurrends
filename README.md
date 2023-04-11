@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 Familiarize myself with react, github, terminal, and also deployment. First REACT Project!
 
 # Getting Started with Create React App
